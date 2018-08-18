@@ -4,25 +4,26 @@
     <display-name lang="en">Example</display-name>
     <url>http://www.dummy</url>
   </channel>
-  <channel id="A&amp;E">
-    <display-name lang="pt">A&amp;E</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvativapiracicaba.gif" />
+  <channel id="AaE">
+    <display-name lang="pt">AaE</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvguanare.gif|http://www.lineup.tv.br/canais/redemeionorte.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="AMC">
     <display-name lang="pt">AMC</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvalesp.gif" />
+    <icon src="http://www.lineup.tv.br/canais/canalbrasil.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="ANIMAL PLANET">
-    <display-name lang="pt">Animal Planet</display-name>
-    <icon src="http://www.lineup.tv.br/canais/telefuturo.gif" />
+    <display-name lang="pt">ANIMAL PLANET</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvasabranca.gif|http://www.lineup.tv.br/canais/globo.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
-  <programme start="20180818000000 +0100" stop="20180818235900 +0100" channel="Example">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
-  </programme>
+  <channel id="ARTE 1">
+    <display-name lang="pt">ARTE 1</display-name>
+    <icon src="http://www.lineup.tv.br/canais/canalcapibaribe.gif|http://www.lineup.tv.br/canais/telesur.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
   <programme start="20180819000000 +0100" stop="20180819235900 +0100" channel="Example">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
@@ -44,6 +45,10 @@
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
   </programme>
   <programme start="20180824000000 +0100" stop="20180824235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20180825000000 +0100" stop="20180825235900 +0100" channel="Example">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
   </programme>
