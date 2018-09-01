@@ -2,11 +2,11 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="bruxa">
     <display-name lang="">24H A BRUXINHA SABRINA</display-name>
-    <url></url>
+    <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="addams">
     <display-name lang="">24H A FAMÍLIA ADDAMS</display-name>
-    <url></url>
+    <url>http://www.netcombo.com.br</url>
   </channel>
   
   <programme start="20180823000000 -0300" stop="20800823003000 -0300" channel="bruxa">
