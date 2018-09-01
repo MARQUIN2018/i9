@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="bruxa">
-    <display-name lang="pt">24H A BRUXINHA SABRINA</display-name>
+    <display-name lang="">24H A BRUXINHA SABRINA</display-name>
     <url></url>
   </channel>
   <channel id="addams">
-    <display-name lang="pt">24H A FAMÍLIA ADDAMS</display-name>
+    <display-name lang="">24H A FAMÍLIA ADDAMS</display-name>
     <url></url>
   </channel>
   
   <programme start="20180823000000 -0300" stop="20800823003000 -0300" channel="bruxa">
-    <title lang="pt">24 Horas de desenhos bruxinha sabrina </title>
+    <title lang="">24 Horas de desenhos bruxinha sabrina</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
   
   <programme start="20180823000000 -0300" stop="20600823003000 -0300" channel="addams">
-    <title lang="pt">24 Horas a familia addams</title>
+    <title lang="">24 Horas a familia addams</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
